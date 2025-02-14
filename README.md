@@ -15,4 +15,6 @@ https://mtmailmtsu-my.sharepoint.com/:w:/g/personal/hp4x_mtmail_mtsu_edu/EVk74f0
 
 ## Collaboration
 [Data Bias - Week A.docx](https://github.com/user-attachments/files/18760290/Data.Bias.-.Week.A.docx) <br />
-[Data Bias - Week B.docx](https://github.com/user-attachments/files/18760359/Data.Bias.-.Week.B.docx)
+[Data Bias - Week B.docx](https://github.com/user-attachments/files/18760359/Data.Bias.-.Week.B.docx) <br />
+[Email Chain.pdf](https://github.com/user-attachments/files/18792081/Email.Chain.pdf) <br />
+[Week 3 : 4 Zoom.txt](https://github.com/user-attachments/files/18792129/Week.3.4.Zoom.txt)
